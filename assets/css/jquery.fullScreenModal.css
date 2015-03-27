@@ -1,0 +1,33 @@
+
+/* 
+    Created on : 2 mars 2015, 22:55:36
+    Author     : ysn
+*/
+
+.fsmContainer{
+    
+    background-size: cover;
+    //float: right;
+    position: absolute;
+    z-index: 9999;
+    right: 100%;
+    top: 0px;
+    
+    width: 100%;
+    height: 100%;
+    //background-color: red;
+
+    background-repeat: no-repeat;
+    
+    text-align: center;
+}
+.fsmContainer > .closeTrigger{
+    position: absolute;
+    top: 0px;
+    right:0px;
+    font-size: 38px;
+    color: #000;
+    width: auto;
+    padding: 20px;
+}
+
